@@ -7,7 +7,8 @@ Image denoising thus plays an important role in current image processing systems
 `y = x + n                          y = observed noisy image`                                                                           
                                     `x = image to be derived` <br />
                                     `n =additive white Gaussian noise (AWGN) to be removed from y`<br />
-**This Repository contains implementation of 5 top level research papers (From A\* Conferences and Transactions) on Image Denoising**
+**This Repository contains implementation of 5 top level research papers (From A\* Conferences and Transactions) on Image Denoising**<br />
+**NOTE: All the implementations were trained and tested on Chest X-Ray Dataset ([CoronaHack-Chest](https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset))**
 
 ### Extracting and Composing Robust Features with Denoising Autoencoder ([Vincent et al.](https://dl.acm.org/doi/10.1145/1390156.1390294))
 **Summary and Novel Contribution:**
